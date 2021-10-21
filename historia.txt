@@ -5,3 +5,5 @@ Lucas Quintana tiene 33 años y nacio en Posadas Misiones Argentina
 Hablaremos de su historia
 
 No es tan alto
+
+Hoy es el CTO de Imaquina
